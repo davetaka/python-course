@@ -17,13 +17,13 @@ i've installed python extension from vscode and pylint
 * recommended snake case for variables like first_name
 * True/False with uppercase first letter
 * float for numbers with decimal places
-* three quotes for string like @" in C#
-* // division operator to get integer part like floor
+* three quotes (""") for string like @" in C#
+* (//) division operator to get integer part like floor
 * a module is a separate file with some reusable code, to organizing code in different files
 * [math module used in course](https://docs.python.org/3/library/math.html)
 * else if = elif
 * basically "then" keyword or the open "{" in python is ":" (this note will help me to remember)
 * unfortunately the logical operators' syntax remembers me of asp 3.0, microsoft's classical asp
-
+* exists an else in while loop that will be executed only when the while loop reach all executions without a break
   
-#### 1:11:31
+#### 1:41:54
