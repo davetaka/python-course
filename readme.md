@@ -26,4 +26,4 @@ i've installed python extension from vscode and pylint
 * unfortunately the logical operators' syntax remembers me of asp 3.0, microsoft's classical asp
 * exists an else in while loop that will be executed only when the while loop reach all executions without a break
   
-#### 1:41:54
+#### 2:01:54
