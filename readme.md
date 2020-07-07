@@ -28,4 +28,4 @@ i've installed python extension from vscode and pylint
 * tuples are immutable in python
 * dictionary is the variable form of classes (with json format)
   
-#### 2:26:32
+#### 2:45:06
