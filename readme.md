@@ -25,5 +25,7 @@ i've installed python extension from vscode and pylint
 * basically "then" keyword or the open "{" in python is ":" (this note will help me to remember)
 * unfortunately the logical operators' syntax remembers me of asp 3.0, microsoft's classical asp
 * exists an else in while loop that will be executed only when the while loop reach all executions without a break
+* tuples are immutable in python
+* dictionary is the variable form of classes (with json format)
   
-#### 2:01:54
+#### 2:26:32
