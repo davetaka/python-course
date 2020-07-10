@@ -27,5 +27,8 @@ i've installed python extension from vscode and pylint
 * exists an else in while loop that will be executed only when the while loop reach all executions without a break
 * tuples are immutable in python
 * dictionary is the variable form of classes (with json format)
+* by default python return None (it's a type like null)
+* UpperCamelCase for classes
+* python doesn't accept empty class, there's a keyword to accept, "pass" keyword
   
-#### 2:45:06
+#### 3:30:27
