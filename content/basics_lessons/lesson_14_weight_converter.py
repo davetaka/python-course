@@ -9,7 +9,7 @@ converted_weight = 0
 converted_unit = ""
 lb_to_kg_factor = 0.454
 
-if(unit == "L"):
+if unit == "L":
     converted_weight = weight * lb_to_kg_factor
     converted_unit = "kg"
 else:

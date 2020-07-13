@@ -11,5 +11,3 @@ class Dog(Mammal):
 class Cat(Mammal):
     def be_annoying(self):
         print("annoying")
-
-

@@ -5,4 +5,4 @@ def find_max(numbers):
         if number > max_number:
             max_number = number
 
-    return(max_number)
+    return max_number

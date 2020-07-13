@@ -11,4 +11,3 @@ print(customer.get("birthdate"))
 
 # default value
 print(customer.get("birthdate", "09/03/88"))
-

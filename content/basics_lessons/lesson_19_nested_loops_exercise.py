@@ -1,4 +1,4 @@
-numbers = [5,2,5,2,2]
+numbers = [5, 2, 5, 2, 2]
 
 # try 1
 print("\ntry 1")
@@ -19,6 +19,6 @@ for number in numbers:
 print("\ntry 3")
 for number in numbers:
     for x in range(number):
-        print("x", end = "")
-        
+        print("x", end="")
+
     print()

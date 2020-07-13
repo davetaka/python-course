@@ -1,4 +1,5 @@
 phone = input("please inform your phone number: ")
+phone = input("please inform your phone number: ")
 
 spelled_numbers = {
     "0": "Zero",
@@ -14,8 +15,8 @@ spelled_numbers = {
 }
 
 for number in phone:
-    if not spelled_numbers.get(number) == None:
-        print(f"{spelled_numbers[number]}", end = " ")
+    if not spelled_numbers.get(number) is None:
+        print(f"{spelled_numbers[number]}", end=" ")
 
 print()
 

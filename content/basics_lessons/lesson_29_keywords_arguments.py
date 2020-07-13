@@ -7,6 +7,6 @@ print("Start")
 
 your_name = input("your name is: ")
 your_surname = input("your last name is: ")
-greet_user(last_name = your_surname, first_name = your_name)
+greet_user(last_name=your_surname, first_name=your_name)
 
 print("Finish")

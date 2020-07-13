@@ -1,9 +1,10 @@
 import random
 
+
 class Dice:
     def roll(self):
         first = random.randint(1, 6)
-        second = random.randint(1, 6) 
+        second = random.randint(1, 6)
         return first, second
 
 
@@ -16,6 +17,7 @@ print(dice.roll())
 class MyDice:
     def roll(self):
         return random.randint(1, 6)
+
 
 print("My suggestion")
 

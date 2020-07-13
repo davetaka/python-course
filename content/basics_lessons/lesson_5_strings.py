@@ -1,7 +1,7 @@
 course = 'Python for beginners'
 print(course)
 
-message = ''' 
+message = '''
 Hi John,
 
 here is our first email to you

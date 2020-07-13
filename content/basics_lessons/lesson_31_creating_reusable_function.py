@@ -12,7 +12,8 @@ def emoji_convert(message):
 
     return output
 
-message = input("> ")
+
+input_message = input("> ")
 
 
-print(emoji_convert(message))
+print(emoji_convert(input_message))

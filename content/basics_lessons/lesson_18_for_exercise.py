@@ -1,4 +1,4 @@
-prices = [10,20,30]
+prices = [10, 20, 30]
 
 total = 0
 

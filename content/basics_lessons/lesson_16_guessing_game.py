@@ -11,7 +11,7 @@ while tries < tries_limit and your_guess != secret_number:
     your_guess = int(input("Guess: "))
     tries += 1
 
-if(your_guess == secret_number):
+if your_guess == secret_number:
     print("you won!")
 else:
     print("sorry you failed!")
@@ -26,7 +26,8 @@ secret_number = 8
 while tries < tries_limit:
     your_guess = int(input("Guess: "))
     tries += 1
-    if(your_guess == secret_number):
+
+    if your_guess == secret_number:
         print("you won!")
         break
 else:

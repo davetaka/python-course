@@ -1,7 +1,7 @@
 numbers = [5, 2, 1, 7, 4]
 
 numbers.append(13)
-numbers.insert(0,13)
+numbers.insert(0, 13)
 numbers.remove(5)
 
 numbers.pop()
