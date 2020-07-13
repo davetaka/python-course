@@ -7,6 +7,7 @@ class Point:
 
 # pylint: disable=attribute-defined-outside-init
 
+
 # this part is proposital, to show how python can change classes
 point1 = Point()
 point1.x = 10
