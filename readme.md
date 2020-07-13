@@ -11,7 +11,7 @@ i'm using python 3.8 and visual studio code
   
 i've installed python extension from vscode and pylint  
   
-  
+   
 ### notes
 * can multiply strings like 'a' * 3 == 'aaa'  
 * recommended snake case for variables like first_name
@@ -30,5 +30,6 @@ i've installed python extension from vscode and pylint
 * by default python return None (it's a type like null)
 * UpperCamelCase for classes
 * python doesn't accept empty class, there's a keyword to accept, "pass" keyword
+* modules built in python [here](https://docs.python.org/3/py-modindex.html)
   
 #### 3:30:27
