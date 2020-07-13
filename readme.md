@@ -32,4 +32,4 @@ i've installed python extension from vscode and pylint
 * python doesn't accept empty class, there's a keyword to accept, "pass" keyword
 * modules built in python [here](https://docs.python.org/3/py-modindex.html)
   
-#### 3:30:27
+#### 3:56:14
