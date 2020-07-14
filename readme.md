@@ -31,5 +31,26 @@ i've installed python extension from vscode and pylint
 * UpperCamelCase for classes
 * python doesn't accept empty class, there's a keyword to accept, "pass" keyword
 * modules built in python [here](https://docs.python.org/3/py-modindex.html)
-  
-#### 3:56:14
+
+
+### steps for machine learning
+1. import the data
+2. clean the data
+3. split the data into training/test sets
+4. create a model
+5. train the model
+6. make predictions
+7. evaluate and improve
+
+### notes for ml
+* libraries like: 
+- numpy - provides multi-dimensional arrays
+- pandas - provides data frame (like excel spreadsheet)
+- matPlotLib - two dimensional plotting library for graph plots
+- scikit-learn - it has most used and common algorithms
+* IDE for ML = Jupyter, built over anaconda
+* jupyter notebook starts notebook server
+* kaggle site for download real data for tests
+
+
+#### 4:49:17
