@@ -52,5 +52,6 @@ i've installed python extension from vscode and pylint
 * jupyter notebook starts notebook server
 * kaggle site for download real data for tests
 
-
-#### 4:49:17
+### notes for django
+* it's using django version 2.1.5 because 2.1.0 have a problem with an old table in sqlite
+* in the course video doesn't have instructions with django 3, so i followed with version 2
