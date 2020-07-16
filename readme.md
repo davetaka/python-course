@@ -32,6 +32,12 @@ i've installed python extension from vscode and pylint
 * python doesn't accept empty class, there's a keyword to accept, "pass" keyword
 * modules built in python [here](https://docs.python.org/3/py-modindex.html)
 
+### virtualenv
+* pip install virtualenv for isolate enviroment installations
+* so i can use django 2.1.5 without impacting any global installations
+* in python convetions virtualenv needs to be inside a directory with specific name
+* i used .venv because looks better in linux and vscode
+* venv needs to be activate before use with source activate inside bin folder
 
 ### steps for machine learning
 1. import the data
