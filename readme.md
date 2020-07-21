@@ -50,10 +50,10 @@ i've installed python extension from vscode and pylint
 
 ### notes for ml
 * libraries like: 
-- numpy - provides multi-dimensional arrays
-- pandas - provides data frame (like excel spreadsheet)
-- matPlotLib - two dimensional plotting library for graph plots
-- scikit-learn - it has most used and common algorithms
+  - numpy - provides multi-dimensional arrays
+  - pandas - provides data frame (like excel spreadsheet)
+  - matPlotLib - two dimensional plotting library for graph plots
+  - scikit-learn - it has most used and common algorithms
 * IDE for ML = Jupyter, built over anaconda
 * jupyter notebook starts notebook server
 * kaggle site for download real data for tests
