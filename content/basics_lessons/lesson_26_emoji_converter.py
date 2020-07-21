@@ -3,8 +3,8 @@ message = input("> ")
 words = message.split(" ")
 
 emojis = {
-    ":)": "smile",
-    ":(": "sad"
+    ":)": "\U0001F638",
+    ":(": "\U0001F63F"
 }
 
 output = ""
